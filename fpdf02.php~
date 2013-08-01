@@ -1,0 +1,15 @@
+<?php
+require('fpdf16/fpdf.php');
+mysql_connect('localhost','root','zz');
+mysql_select_db('correfax');
+$consulta=mysql_query('SELECT nom_adh, region_adh, prenoms_adh, date_crea_adh FROM galette_adherents');
+while ($row= mysql_fetch_array($consulta)){
+//$resultado= ;//el row que quieras
+}
+
+$pdf=new FPDF();
+$pdf->AddPage();
+$pdf->SetFont('Arial','B',16);
+$pdf->Cell(40,10,'$resultado');
+$pdf->Output();
+?>

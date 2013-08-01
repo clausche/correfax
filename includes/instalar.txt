@@ -1,0 +1,16 @@
+1-dentro include crear una carpeta "enlace" llamada adodb, proveniente de adodb471-1.
+
+2-<?
+define("TYPE_DB", "mysql");
+define("HOST_DB", "localhost");
+define("USER_DB", "root");
+define("PWD_DB", 'clave tuya');
+define("NAME_DB", "correfax");
+define("WEB_ROOT", "/var/www/correfax/");
+define("PREFIX_DB", "gac_");
+?>
+
+3-vas a crear una base de datos llamda correfax de charset utf8 y que sea innoDB
+
+4.usuario y clave "occ" y "$ana%lista&"
+

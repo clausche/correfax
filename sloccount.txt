@@ -1,0 +1,169 @@
+Have a non-directory at the top, so creating directory top_dir
+Adding /var/www/correfax//_20090618_2307.sql to top_dir
+Adding /var/www/correfax//_20090703_0726.sql to top_dir
+Creating filelist for ajax
+Adding /var/www/correfax//ajaxindex.html to top_dir
+Adding /var/www/correfax//ajouter_adherent.php to top_dir
+Adding /var/www/correfax//ajouter_adherent.php~ to top_dir
+Adding /var/www/correfax//ajouter_archivo.php to top_dir
+Adding /var/www/correfax//ajouter_archivo.php~ to top_dir
+Adding /var/www/correfax//ajouter_contribution.php to top_dir
+Adding /var/www/correfax//ajouter_pais.php to top_dir
+Creating filelist for back-install
+Adding /var/www/correfax//conexion.php to top_dir
+Adding /var/www/correfax//correfax-Nov-2012.mwb to top_dir
+Adding /var/www/correfax//correfax-Nov-2012.mwb.bak to top_dir
+Adding /var/www/correfax//correfax-Oct-2012.mwb to top_dir
+Adding /var/www/correfax//correfax.sql to top_dir
+Creating filelist for css
+Adding /var/www/correfax//css.css to top_dir
+Adding /var/www/correfax//css.css~ to top_dir
+Adding /var/www/correfax//download.php to top_dir
+Adding /var/www/correfax//download.php~ to top_dir
+Adding /var/www/correfax//dvoir_adherent.php to top_dir
+Adding /var/www/correfax//edit_actividades.php to top_dir
+Adding /var/www/correfax//edit_historial.php to top_dir
+Adding /var/www/correfax//edit_observaciones.php to top_dir
+Adding /var/www/correfax//edit_propuestas.php to top_dir
+Adding /var/www/correfax//edit_terminos.php to top_dir
+Adding /var/www/correfax//estadistica-20130709-112833.sql.gz to top_dir
+Adding /var/www/correfax//estadistica-20130709-121111.sql.gz to top_dir
+Adding /var/www/correfax//estadistica-20130709-121329.sql.gz to top_dir
+Adding /var/www/correfax//estadistica-20130709-121512.sql.gz to top_dir
+Adding /var/www/correfax//estadistica-20130709-121616.sql.gz to top_dir
+Adding /var/www/correfax//estadistica-20130709-121632.sql.gz to top_dir
+Adding /var/www/correfax//estadistica-20130709-121708.sql.gz to top_dir
+Adding /var/www/correfax//estadistica-20130709-121915.sql.gz to top_dir
+Adding /var/www/correfax//estadistica-20130709-121953.sql.gz to top_dir
+Adding /var/www/correfax//eti_correspondencia.php to top_dir
+Adding /var/www/correfax//etiquettes_correspondencia.php to top_dir
+Creating filelist for fckeditor
+Adding /var/www/correfax//filepdf.php to top_dir
+Adding /var/www/correfax//filepdf2.php to top_dir
+Adding /var/www/correfax//footer.php to top_dir
+Adding /var/www/correfax//footer.php~ to top_dir
+Adding /var/www/correfax//fpdf-file.php to top_dir
+Creating filelist for fpdf-land
+Adding /var/www/correfax//fpdf.php to top_dir
+Adding /var/www/correfax//fpdf01.php to top_dir
+Adding /var/www/correfax//fpdf01.php~ to top_dir
+Adding /var/www/correfax//fpdf02.php to top_dir
+Adding /var/www/correfax//fpdf02.php~ to top_dir
+Adding /var/www/correfax//fpdf03.php to top_dir
+Adding /var/www/correfax//fpdf03.php~ to top_dir
+Creating filelist for fpdf153
+Creating filelist for fpdf16
+Creating filelist for fpdf17
+Adding /var/www/correfax//galette.css to top_dir
+Adding /var/www/correfax//galette.css~ to top_dir
+Adding /var/www/correfax//galette2.css to top_dir
+Adding /var/www/correfax//gestion_archivo.php to top_dir
+Adding /var/www/correfax//gestion_archivo.php~ to top_dir
+Adding /var/www/correfax//gestion_contributions.php to top_dir
+Adding /var/www/correfax//gestion_correspondencia.php to top_dir
+Adding /var/www/correfax//gestion_correspondencia.php~ to top_dir
+Adding /var/www/correfax//gestion_pais.php to top_dir
+Adding /var/www/correfax//gestion_pais.php~ to top_dir
+Adding /var/www/correfax//global.css to top_dir
+Adding /var/www/correfax//gpl.html to top_dir
+Adding /var/www/correfax//graphico_01.jpg to top_dir
+Adding /var/www/correfax//graphico_02.jpg to top_dir
+Adding /var/www/correfax//header.php to top_dir
+Adding /var/www/correfax//header.php~ to top_dir
+Creating filelist for images
+Adding /var/www/correfax//imprimepdf.php to top_dir
+Adding /var/www/correfax//imprimepdf.php~ to top_dir
+Creating filelist for includes
+Adding /var/www/correfax//index.php to top_dir
+Adding /var/www/correfax//index3.css to top_dir
+Adding /var/www/correfax//inicio.css to top_dir
+Creating filelist for jpgraph-2.2
+Adding /var/www/correfax//jquery.js to top_dir
+Adding /var/www/correfax//js.js to top_dir
+Creating filelist for jscalendar
+Creating filelist for lang
+Adding /var/www/correfax//licencia.php to top_dir
+Adding /var/www/correfax//licencia.png to top_dir
+Adding /var/www/correfax//log.php to top_dir
+Adding /var/www/correfax//login.php to top_dir
+Adding /var/www/correfax//lostpasswd.php to top_dir
+Adding /var/www/correfax//mailing_adherents.php to top_dir
+Adding /var/www/correfax//menu.css to top_dir
+Adding /var/www/correfax//mipdf.php to top_dir
+Adding /var/www/correfax//mipdf.php~ to top_dir
+Creating filelist for nbproject
+Adding /var/www/correfax//paises.txt to top_dir
+Adding /var/www/correfax//pdf.php to top_dir
+Adding /var/www/correfax//pdf.php~ to top_dir
+Adding /var/www/correfax//pdf_1.php to top_dir
+Adding /var/www/correfax//pdf_1.php~ to top_dir
+Adding /var/www/correfax//pdform.php to top_dir
+Adding /var/www/correfax//pdform.php~ to top_dir
+Creating filelist for photos
+Adding /var/www/correfax//preferences.php to top_dir
+Adding /var/www/correfax//preferences.php~ to top_dir
+Adding /var/www/correfax//reporte_barra.php to top_dir
+Adding /var/www/correfax//reporte_torta.php to top_dir
+Adding /var/www/correfax//respaldo.php to top_dir
+Adding /var/www/correfax//restor_dump.php to top_dir
+Adding /var/www/correfax//rumbo.gif to top_dir
+Adding /var/www/correfax//theme_wp.css to top_dir
+Adding /var/www/correfax//ver_pdf.php to top_dir
+Adding /var/www/correfax//ver_pdf.php~ to top_dir
+Adding /var/www/correfax//voir_adherent.php to top_dir
+Adding /var/www/correfax//voir_adherent.php~ to top_dir
+Adding /var/www/correfax//voir_correspondencia.php to top_dir
+Adding /var/www/correfax//voir_pais.php to top_dir
+Adding /var/www/correfax//voir_pais.php~ to top_dir
+Adding /var/www/correfax//wp-login.php to top_dir
+Creating filelist for wp-login_files
+Adding /var/www/correfax//wp.html to top_dir
+Categorizing files.
+Finding a working MD5 command....
+Found a working MD5 command.
+Computing results.
+
+
+SLOC	Directory	SLOC-by-Language (Sorted)
+30483   jpgraph-2.2     php=30483
+28070   includes        php=27983,xml=87
+6889    top_dir         php=6889
+3388    fpdf-land       php=3388
+2691    fpdf17          php=2691
+2662    fckeditor       perl=885,php=763,python=689,xml=325
+2475    fpdf16          php=2475
+1405    fpdf153         php=1405
+1133    lang            php=1133
+703     back-install    php=703
+57      ajax            php=57
+13      nbproject       xml=13
+0       css             (none)
+0       images          (none)
+0       jscalendar      (none)
+0       photos          (none)
+0       wp-login_files  (none)
+
+
+Totals grouped by language (dominant language first):
+php:          77970 (97.50%)
+perl:           885 (1.11%)
+python:         689 (0.86%)
+xml:            425 (0.53%)
+
+
+
+
+Total Physical Source Lines of Code (SLOC)                = 79,969
+Development Effort Estimate, Person-Years (Person-Months) = 19.91 (238.93)
+ (Basic COCOMO model, Person-Months = 2.4 * (KSLOC**1.05))
+Schedule Estimate, Years (Months)                         = 1.67 (20.03)
+ (Basic COCOMO model, Months = 2.5 * (person-months**0.38))
+Estimated Average Number of Developers (Effort/Schedule)  = 11.93
+Total Estimated Cost to Develop                           = $ 2,689,734
+ (average salary = $56,286/year, overhead = 2.40).
+SLOCCount, Copyright (C) 2001-2004 David A. Wheeler
+SLOCCount is Open Source Software/Free Software, licensed under the GNU GPL.
+SLOCCount comes with ABSOLUTELY NO WARRANTY, and you are welcome to
+redistribute it under certain conditions as specified by the GNU GPL license;
+see the documentation for details.
+Please credit this data as "generated using David A. Wheeler's 'SLOCCount'."

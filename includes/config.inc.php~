@@ -1,0 +1,9 @@
+<?
+define("TYPE_DB", "mysql");
+define("HOST_DB", "localhost");
+define("USER_DB", "root");
+define("PWD_DB", 'zz');
+define("NAME_DB", "correfax");
+define("WEB_ROOT", "/var/www/correfax/");
+define("PREFIX_DB", "gac_");
+?>

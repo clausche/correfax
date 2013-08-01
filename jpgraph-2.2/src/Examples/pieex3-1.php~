@@ -1,0 +1,68 @@
+<?php
+include ("../jpgraph.php");
+include ("../jpgraph_pie.php");
+
+// Some data
+$db = mysql_connect("localhost", "root","zz") ;
+
+mysql_select_db("becarios",$db);
+$sql_sexo = mysql_query("SELECT estado_inst,sexo_adh,count(*) as total FROM becas_estudiantes WHERE 
+sexo_adh not like '' AND estado_inst not like '' group by sexo_adh") ;
+
+
+
+
+//$data = array(40,21,17,14,23);
+
+// Create the Pie Graph.
+$graph = new PieGraph(350,300,"auto");
+$graph->SetShadow();
+
+// Set A title for the plot
+$graph->title->Set("Multiple - Pie plot");
+$graph->title->SetFont(FF_FONT1,FS_BOLD);
+
+// Create plots
+
+while($row = mysql_fetch_array($sql_sexo))
+{
+$data[] = $row['total'];
+$estado[] = $row['estado_inst'];
+
+$size=0.13;
+$p1 = new PiePlot($data);
+$p1->SetLegends(array("M","F"));
+$p1->SetSize($size);
+$p1->SetCenter(0.25,0.32);
+$p1->value->SetFont(FF_FONT0);
+$p1->title->Set($estado['estado_inst']);
+
+$p2 = new PiePlot($data);
+$p2->SetSize($size);
+$p2->SetCenter(0.65,0.32);
+$p2->value->SetFont(FF_FONT0);
+$p2->title->Set($estado['estado_inst']);
+
+$p3 = new PiePlot($data);
+$p3->SetSize($size);
+$p3->SetCenter(0.25,0.75);
+$p3->value->SetFont(FF_FONT0);
+$p3->title->Set($estado['estado_inst']);
+
+$p4 = new PiePlot($data);
+$p4->SetSize($size);
+$p4->SetCenter(0.65,0.75);
+$p4->value->SetFont(FF_FONT0);
+$p4->title->Set($estado['estado_inst']);
+
+$graph->Add($p1);
+$graph->Add($p2);
+$graph->Add($p3);
+$graph->Add($p4);
+}
+$graph->Stroke();
+
+?>
+
+
+

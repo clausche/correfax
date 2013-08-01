@@ -1,0 +1,377 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	color : #333;
+	background-color : #c;
+	font-size : 11px;
+	font-family : Tahoma, Arial, Helvetica, sans-serif;
+}
+
+#wrapper {
+        border: 0px;
+        margin: 0px;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 0px;
+}
+
+#header {
+        background-color: #FFF;
+        background-position: right top;
+        border-bottom: 4px solid #5c7099;
+        background: url(header_bg.png);
+}
+
+#joomla {
+        position: relative;
+        width: 100%;
+        background: url(header_version.png) no-repeat;
+        background-position: bottom right;
+        margin: 0px;
+        padding: 0px;
+}
+
+#stepbar {
+	background-color: #FCF9F9;
+	width: 170px !important;
+	width: 170px;
+	height: 400px;
+	font-size: 11px;
+	float: left;
+	text-align: left;
+}
+
+#step {
+	background: url(install_logo.png) no-repeat;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: left;
+	color: #83A810;
+	padding: 10px 0px 20px 80px;
+	white-space: nowrap;
+	position: relative;
+	float: left;
+}
+
+#step_licencia {
+	background:url(images/crypto.png) no-repeat;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color: #5c7099;
+	padding: 10px 0px 20px 180px;
+	white-space: nowrap;
+	position: relative;
+	float: left;
+}
+
+#step_logo {
+	background:url(images/bannerprincipal_800x71.jpg) no-repeat;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: left;
+	color: #5c7099;
+	padding: 5px 0px 71px 750px;
+	white-space: nowrap;
+	position: relative;
+	float: left;
+}
+
+#step1 {
+	background: url(install_logo_bd.png) no-repeat;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: left;
+	color: #83A810;
+	padding: 10px 0px 20px 80px;
+	white-space: nowrap;
+	position: relative;
+	float: left;
+}
+
+#step_titulo {
+	background: url(titulo.png) no-repeat;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: left;
+	color: #83A810;
+	padding: 10px 0px 20px 80px;
+	white-space: nowrap;
+	position: relative;
+	float: left;
+}
+
+#step_acceso {
+	background: url(config.png) no-repeat;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: left;
+	color: #83A810;
+	padding: 10px 0px 20px 80px;
+	white-space: nowrap;
+	position: relative;
+	float: left;
+}
+
+#step_final {
+	background: url(final.png) no-repeat;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: left;
+	color: #83A810;
+	padding: 10px 0px 20px 80px;
+	white-space: nowrap;
+	position: relative;
+	float: left;
+}
+
+.step-on {
+	color: #000;
+	background: #E3F8B4;
+	font-weight: bold;
+	font-size: 13px;
+	padding: 10px;
+	border: 1px solid #C4E380;
+	margin-bottom: 2px;
+}
+
+.step-off {
+	font-size: 13px;
+	color: #000;
+	font-weight: bold;
+	padding: 10px;
+	border: 1px solid #cccccc;
+	margin-bottom: 2px;
+	background-color: #ECEBDF;
+}
+
+.step-init {
+	font-size: 12px;
+	color: #5D6153;
+	font-weight: bold;
+	padding: 4px;
+	margin-bottom: 1px;
+	background-color: #E6F5B7;
+	border-bottom: 2px solid #ABC16A;
+
+}
+
+#right {
+  float: right;
+  width: 555px !important;
+  width: 545px;
+  border-left: 1px solid #cccccc;
+  padding-left: 10px;
+
+}
+
+#break {
+	height: 20px;
+}
+
+.licensetext {
+  text-align: left;
+}
+
+.license {
+  padding: 0px;
+  width: 530px;
+  height: 300px;
+}
+
+.license-form {
+  float: left;
+}
+
+.posi_logo {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 3em;
+	margin-bottom: 3em;
+	padding: 0px;
+	border: 0px ; 
+	width: 785px;
+	height:61px;
+	background: #FFF;
+	background:url(images/bannerprincipal_800x71.jpg) no-repeat;
+}
+
+.install {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 3em;
+	margin-bottom: 3em;
+	padding: 10px;
+	border: 1px solid #cccccc;
+	width: 763px;
+	background: #e4e7f5;
+}
+
+.install h1 {
+	font-size: 15px;
+	font-weight: bold;
+	color: #38431F;
+	padding: 10px 10px 4px 0px;
+	text-align: left;
+	border-bottom: 1px solid;
+	margin-bottom: 10px;
+	border-bottom-color: #504F47;
+	border-bottom-style: dotted;
+}
+
+.install-form {
+  position: relative;
+	text-align: left;
+	float: right;
+	width: 69%;
+}
+
+.install-text {
+  position: relative;
+	text-align: left;
+	width: 30%;
+	float: left;
+}
+
+.form-block {
+	border: 1px solid #e4e7f5;
+	border-bottom: 9px solid #e4e7f5;
+	background: #e4e7f5;
+	padding-top: 5px;
+	padding-left: 5px;
+	padding-bottom: 5px;
+	padding-right: 5px;
+}
+
+.bordertd {
+	background: #bdf107;
+}
+
+.left {
+  position: relative;
+	text-align: left;
+	float: left;
+	width: 50%;
+}
+
+.right {
+  position: relative;
+	text-align: left;
+	float: right;
+	width: 50%;
+}
+
+.far-right {
+  position: relative;
+	text-align: right;
+	float: right;
+}
+
+.far-left {
+  position: relative;
+	text-align: left;
+	float: left;
+}
+
+.clr {
+    clear:both;
+    }
+
+.ctr {
+	text-align: center;
+}
+
+
+
+table.content {
+	width: 95%;
+}
+
+table.content td {
+	color : #333333;
+	font-size: 11px;
+	width: 50%;
+}
+
+table.content2 {
+	width: 90%;
+}
+
+table.content2 td {
+	color : #333333;
+	font-size: 11px;
+}
+
+.toggle {
+	font-weight: bold;
+}
+
+
+/*  old stuff */
+
+
+a {
+	color: #30569d;
+	text-decoration: underline;
+}
+a:hover {
+	color : #30569D;
+	text-decoration : underline;
+}
+a:active {
+	color : #FF9900;
+	text-decoration : underline;
+}
+
+.inputbox {
+
+	color: blue;
+	font-family: Arial, Helvetica, sans-serif;
+	z-index: -3;
+	font-size: 11px;
+}
+
+.small {
+	color : #333;
+	font-size : 10px;
+}
+
+.error {
+	color : #cc0000;
+	font-size : 12px;
+	font-weight : bold;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+
+select.options, input.options {
+	font-size: 8pt;
+	border: 1px solid #999;
+}
+
+form {
+	margin: 0px 0px 0px 0px;
+}
+
+
+.dottedline {
+	border-bottom: 16px solid #333;
+}
+
+.installheader {
+	color : #FFF;
+	font-size : 24px;
+}
+
+textarea {
+	color : #0000dd;
+	font-family : Arial;
+	font-size : 11px;
+	border: 1px;
+}
+
+.notice {
+	color : #000;
+	font-size : 20px;
+}
